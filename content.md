@@ -5,6 +5,7 @@
 <div class="bg-red-100 py-1 px-5" markdown="1">
 **Please note**, the video is from a previous iteration of the project, so there are some differences:
 
+- The audio quality is somewhat poor on this video, but it is _much better_ on the rest of the videos in this project series. The text below should guide you through the lesson if you can't make out the audio at times.
 - I am using Gitpod as my cloud editor, so the interface looks a bit different.
 - Anything contained in the project "README" is now contained in this Lesson
 - I use `bin/server` to start my live app preview, _you_ should use `bin/dev`
