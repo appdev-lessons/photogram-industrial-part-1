@@ -26,7 +26,7 @@ The current project `photogram-industrial` covers everything in this lesson and 
 
 Here is a rough target to work towards:
 
-[pg-industrial-2-final.herokuapp.com](https://pg-industrial-2-final.herokuapp.com/).
+[photogram-industrial.matchthetarget.com](https://photogram-industrial.matchthetarget.com/).
 
 This time around, Photogram will be _industrial grade_ — the kind of code you could charge money for. We'll use database indexes and constraints, advanced association accessors, scopes, validations, view helper methods like `link_to` and `form_with` everywhere, partials to DRY up code judiciously, the Devise gem for authentication and password reset emails, authorizing access to each action explicitly, and many other industrial-strength upgrades.
 
